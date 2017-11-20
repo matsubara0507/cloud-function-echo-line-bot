@@ -1,5 +1,5 @@
 {
-    "name": "adventar-bot", 
+    "name": "echo-bot", 
     "version": "0.1.0", 
     "main": "index.js", 
     "dependencies": {
